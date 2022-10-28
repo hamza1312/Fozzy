@@ -1,2 +1,2 @@
 # Fozzy
-The forth programming language made in rust.
+a highlevel language
