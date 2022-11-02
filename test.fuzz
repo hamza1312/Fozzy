@@ -1,0 +1,3 @@
+var hamza = 1.25 + 1.25;
+hamza = 500 && 25;
+print(hamza);
